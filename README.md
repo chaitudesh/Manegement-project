@@ -1,1 +1,1 @@
-# Manegement-project
+# Management-project
