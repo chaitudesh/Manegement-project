@@ -1,1 +1,1 @@
-<?php echo "this is the first file of PHP."; ?>
+<?php echo "this is the first file of js."; ?>
